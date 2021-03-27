@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@400;700&display=swap');
+body {
+    text-align: center;
+    background-color: deepskyblue;
+    background-size: cover;
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+.paint-canvas {
+    border: 3px solid black;
+    display: block;
+    margin: 20px auto;
+    background: white;
+}
+
+.color-picker {
+  margin: 20px, 20px, 0px, 20px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 20px;
+}
